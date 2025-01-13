@@ -31,7 +31,7 @@
 ## 参加申込
 - 参加費無料
 - 聴講者は**現地のみ**
-- [こちら](https://docs.google.com/forms/d/1A1SJAyI-FKKj9p_ZyVai3UanGQP_17ONN-FRjBYhKUI/)よりご登録下さい
+- [こちら](https://docs.google.com/forms/d/1A1SJAyI-FKKj9p_ZyVai3UanGQP_17ONN-FRjBYhKUI/)よりご登録下さい(残席わずかです；お早めにご登録ください[Jan 14]) 
 <!-- - ~~スピーカー募集中です（以下の登録時もしくはメールでお問い合わせ下さい）~~ -->
 
 ## 懇親会のご案内
@@ -42,4 +42,4 @@ scais.info [atmark] gmail.com
 
 ## SCAIS2025実行委員
 須賀 祐治（IIJ），木藤 圭亮（三菱電機），高橋 順子（NTT），縫田 光司（九州大学）<br>
-林 卓也（NEC），矢内 直人（パナソニックホールディングス），国井 裕樹（セコム），小林 信博（長崎県立大学）
+林 卓也（Acompany），矢内 直人（パナソニックホールディングス），国井 裕樹（セコム），小林 信博（長崎県立大学）
